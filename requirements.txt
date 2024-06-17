@@ -1,0 +1,7 @@
+google-auth==2.1.1
+google-auth-oauthlib==0.4.6
+google-api-python-client==2.24.0
+pytube==11.0.1
+spotipy==2.18.0
+moviepy==1.0.3
+yt-dlp==2022.2.10
