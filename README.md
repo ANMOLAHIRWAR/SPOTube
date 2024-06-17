@@ -20,7 +20,7 @@ SPOTube is a Python application that facilitates seamless synchronization and in
 3. **Audio Download:** Optionally download audio from YouTube playlists to local storage.
 
 ## Installation:
-- Clone the repository and install dependencies listed in `requirements.txt`.
+- Clone the repository and install dependencies listed in `requirements.txt`. ( USE: **pip freeze > requirements.txt** command in terminal )
 - You need to create your own api keys for both YOUTUBE and SPOTIFY . (THERE ARE PLENTY OF TUTORIALS ON THE YOUTUBE FOR THAT)
 - **Make sure to update your api keys info on line 24,285,289 of app.py**
 
