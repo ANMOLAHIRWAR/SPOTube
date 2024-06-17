@@ -25,3 +25,5 @@ SPOTube is a Python application that facilitates seamless synchronization and in
 - **Make sure to update your api keys info on line 24,285,289 of app.py**
 
 This project simplifies the management and interaction of playlists across Spotify and YouTube platforms, offering both functionality and ease of use.
+
+**_IN CASE YOU FACE ANY ERROR OR ISSUE PLEASE LET ME KNOW_**
